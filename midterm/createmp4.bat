@@ -1,1 +1,2 @@
-ffmpeg -loop 1 -f image2 -i "musichardwrite.png" -i C:\Users\User\Documents\MuseScore2\Scores\­µ¼Ö´Á¤¤§@·~\³¯¬ıÂ×.wav -c:v libx264 -c:a aac -strict experimental -b:a 192k -t 00:01:19.000 -pix_fmt yuv420p music.mp4
+chcp 65001
+ffmpeg -loop 1 -f image2 -i "musichardwrite.png" -i é™³ç¾¿è±.wav -c:v libx264 -c:a aac -strict experimental -b:a 192k -t 00:01:19.000 -pix_fmt yuv420p music.mp4
