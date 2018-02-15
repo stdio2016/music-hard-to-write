@@ -43,5 +43,6 @@
 * FFmpeg (轉成影片)
 * Audacity (疊合伴奏和錄音軌)
 * 手機 (我用手機錄音)
-* Atom (文字編輯器)
+* Atom (Markdown 文件編輯器)
+* Aegisub (在影片中插入文字)
 * Git (用來把這些原檔上傳到 GitHub)
